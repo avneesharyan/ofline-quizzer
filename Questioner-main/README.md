@@ -29,15 +29,4 @@
 - Click top right dots and logout.
 - Create account and login using new created account.
 
-### FAQs
-1. Other Questions.<br>
-    -->Feel free to Connect with me on Telegram [@vinayak_09](http://t.me/vinayak_09).
-
-#### PS:NOTE
-- You can download [Questioner Android App Demo](https://github.com/Vinayak-09/Questioner/releases/download/v1.0.0/Questioner.apk)
-
-------------
-
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/lWN9nhKnIZo
 
